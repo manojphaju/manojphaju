@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Data/DevOps Engineer**
 
-- 📫 How to reach me **phajumanoj@gmail.com** **+44-07950703884**
+- 📫 How to reach me **phajumanoj@gmail.com** / **+44-07950703884**
 
 
 
