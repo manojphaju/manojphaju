@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manoj Phaju</h1>
-<h3 align="center">A passionate Data/DevOps Engineer</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojphaju&label=Profile%20views&color=0e75b6&style=flat" alt="manojphaju" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Data/DevOps Engineer**
 
-- 📫 How to reach me **phajumanoj@gmail.com** / **+44-07950703884**
+- 📫 How to reach me **phajumanoj@gmail.com** / **+977-9841040534**
 
 
 
